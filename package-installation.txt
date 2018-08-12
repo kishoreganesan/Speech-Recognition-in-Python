@@ -1,0 +1,8 @@
+#install speech_recognition using this command (pip install speech_recognition)
+
+#install pyaudio using this command (pip install pyaudio)
+
+
+
+
+if you have the both installed already, then directly go for the code.  Thank you.
